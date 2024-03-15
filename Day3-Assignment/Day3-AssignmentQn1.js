@@ -59,4 +59,4 @@ function Day3a()
     );
 }
 
-//export default Day3a;
+export default Day3a;
